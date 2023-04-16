@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.wordz.domain.WordTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2023-04-16T23:23:39" hostname="DESKTOP-SUKBNVL" time="0.136">
+  <properties/>
+  <testcase name="oneCorrectLetter()" classname="com.wordz.domain.WordTest" time="0.132"/>
+  <testcase name="allScoreCombinations()" classname="com.wordz.domain.WordTest" time="0.002"/>
+  <testcase name="secondLetterWrongPosition()" classname="com.wordz.domain.WordTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
